@@ -1,3 +1,3 @@
 <h1 align="center">
-    <img src="https://www.omlet.us/guide/cats/what-is-a-cat/" />
+    <img src="https://github.com/curvedflame/curvedflame/raw/main/yes.jpg" />
 </h1>
