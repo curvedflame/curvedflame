@@ -1,3 +1,3 @@
 <h1 align="center">
-    <img src="https://www.hphhfoundation.org/blog/origin-of-cats" />
+    <img src="https://www.omlet.us/guide/cats/what-is-a-cat/" />
 </h1>
